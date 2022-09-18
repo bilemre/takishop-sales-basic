@@ -1,0 +1,32 @@
+@media screen and (max-width: 1200px) {
+    .menu-alan {
+        float: left;
+    
+        width: 77%;
+        margin-left: 2px;
+        height: 100px;
+    }
+    .logo {
+
+        width: 22%;
+        height: 70px;
+    
+       
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .menu-alan {
+        float: left;
+        margin-left: -35px;
+        width: 76%;
+        height: 100px;
+    }
+    .logo {
+
+        width: 29%;
+        height: 70px;
+    
+       
+    }
+}

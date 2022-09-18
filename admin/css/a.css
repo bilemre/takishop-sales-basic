@@ -1,0 +1,22 @@
+.count{
+    color: gray;
+    font-size: 40px;
+
+}
+.ac{
+    color: green;
+}
+.stock{
+    color: red;
+}
+.resg{
+    border: 0;
+    outline: navajowhite;
+    width: 200px;
+    height: 40px;
+    position: relative;
+    top: 866px;
+    left:150px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}   
